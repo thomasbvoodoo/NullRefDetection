@@ -22,3 +22,5 @@ MonoBehaviour:
     type: 3}
   masterPrefabCopy: {fileID: 6793791786441280078, guid: 6b0f5dbe2e522a64cafde0fa1a306ad0,
     type: 3}
+  otherVariantFromMaster: {fileID: 2362829461641741123, guid: 45de6de8e0aec0443b4adbfbadc44d09,
+    type: 3}
