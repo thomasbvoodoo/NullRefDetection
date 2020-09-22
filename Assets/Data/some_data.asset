@@ -12,13 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d690f1517cd85f24abdb894c66ea729c, type: 3}
   m_Name: some_data
   m_EditorClassIdentifier: 
-  somePrefab: {fileID: 5512190388525040958, guid: a522b3b600e5fdb42b87b1e632be8182,
+  masterPrefab: {fileID: 6793791786441280078, guid: 009342e35078ab340a08ea292c54db59,
     type: 3}
-  somePrefab2: {fileID: 5512190388525040958, guid: 09009a55ca9c8b648a2b52efeabe8715,
+  variantFromMaster: {fileID: 5512190388525040958, guid: a522b3b600e5fdb42b87b1e632be8182,
     type: 3}
-  somePrefab3: {fileID: 5512190388525040958, guid: 87e020addb118cc4eb572926c3d2d7cd,
+  variantCopy1: {fileID: 5512190388525040958, guid: 09009a55ca9c8b648a2b52efeabe8715,
     type: 3}
-  somePrefab4: {fileID: 5512190388525040958, guid: 183cddc9fc5a43f4292c9254503be720,
+  variantCopy2: {fileID: 5512190388525040958, guid: 87e020addb118cc4eb572926c3d2d7cd,
+    type: 3}
+  variantCopy3: {fileID: 5512190388525040958, guid: 183cddc9fc5a43f4292c9254503be720,
     type: 3}
   masterPrefabCopy: {fileID: 6793791786441280078, guid: 6b0f5dbe2e522a64cafde0fa1a306ad0,
     type: 3}
