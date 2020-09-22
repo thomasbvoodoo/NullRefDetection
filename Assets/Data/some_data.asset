@@ -20,3 +20,5 @@ MonoBehaviour:
     type: 3}
   somePrefab4: {fileID: 5512190388525040958, guid: 183cddc9fc5a43f4292c9254503be720,
     type: 3}
+  masterPrefabCopy: {fileID: 6793791786441280078, guid: 6b0f5dbe2e522a64cafde0fa1a306ad0,
+    type: 3}
