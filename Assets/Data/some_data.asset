@@ -16,3 +16,7 @@ MonoBehaviour:
     type: 3}
   somePrefab2: {fileID: 5512190388525040958, guid: 09009a55ca9c8b648a2b52efeabe8715,
     type: 3}
+  somePrefab3: {fileID: 5512190388525040958, guid: 87e020addb118cc4eb572926c3d2d7cd,
+    type: 3}
+  somePrefab4: {fileID: 5512190388525040958, guid: 183cddc9fc5a43f4292c9254503be720,
+    type: 3}
