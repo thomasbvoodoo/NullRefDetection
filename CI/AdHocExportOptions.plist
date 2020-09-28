@@ -6,13 +6,13 @@
 	<string>ad-hoc</string>
 	<key>teamID</key>
 	<string>4R6T9X55W2</string>
-	<key>uploadBitcode</key>
-	<true/>
 	<key>compileBitcode</key>
-	<true/>
-	<key>uploadSymbols</key>
+	<false/>
+	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>signingStyle</key>
 	<string>automatic</string>
+	<key>thinning</key>
+	<string>&lt;thin-for-all-variants&gt;</string>
 </dict>
 </plist>
